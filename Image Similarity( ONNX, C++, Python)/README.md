@@ -2,7 +2,7 @@
 
 ## Project Agenda
 
-In current era, Technology is growing enormously such as **Self Driving Car**.Which makes calculation of its surroundings within fraction of second to make decision withing fraction of seconds, At that time latency of any system is major concern. 
+In current era, Technology is growing enormously such as **Self Driving Car**.Which makes calculation of its surroundings and makes decision withing fraction of seconds, At that time latency of any system is major concern. 
 
 This project Aims on reducing latency by making custom operator in C++ language due to its memory management system.
 
