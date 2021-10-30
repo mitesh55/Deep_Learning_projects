@@ -19,7 +19,7 @@
 
 * [Image Segmentation](https://github.com/mitesh55/Deep_Learning_projects/tree/main/Image%20Segmentation%20(%20Pytorch%20))
 
- ![Image Segmentation -img](https://www.google.com/url?sa=i&url=https%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs11042-020-09425-0&psig=AOvVaw1kC0kkzqyQGTbm_v39PGsg&ust=1635670373660000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOjJx5Ph8fMCFQAAAAAdAAAAABAK)
+ ![Image Segmentation -img](https://github.com/mitesh55/Deep_Learning_projects/blob/main/Image%20Segmentation%20(%20Pytorch%20)/11042_2020_9425_Fig3_HTML.png)
  
 * [Face Recognition](https://github.com/mitesh55/Deep_Learning_projects/tree/main/Face%20Recognition%20(%20dlib%2C%20mtcnn%2C%20haarcascade%20))
 
