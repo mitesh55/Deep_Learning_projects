@@ -10,4 +10,4 @@
 
 Line detection is been done by sorting pixel values horizontally first, and then vertically after initialising the distance parameter between two frequent lines.
 
-[NOTE : messy code on above notebook indicates the process flow of operation from basic lavel codig and understanding]
+[NOTE : messy code on above notebook indicates the process flow of operation from basic level of coding and understanding]
