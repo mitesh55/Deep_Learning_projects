@@ -23,6 +23,7 @@
  
 * [Face Recognition](https://github.com/mitesh55/Deep_Learning_projects/tree/main/Face%20Recognition%20(%20dlib%2C%20mtcnn%2C%20haarcascade%20))
 
+ ![Face Recognition -img](https://github.com/mitesh55/Deep_Learning_projects/blob/main/Face%20Recognition%20(%20dlib%2C%20mtcnn%2C%20haarcascade%20)/images/face_rec.jpg)
 * [Image Captioning](https://github.com/mitesh55/Deep_Learning_projects/tree/main/Image%20Captioning%20(%20TensorFlow%20))
 
 * [Geometric Shape Detection (Circle)](https://github.com/mitesh55/Deep_Learning_projects/tree/main/GeoMetric%20Shape%20Detection%20from%20Noisy%20Image)
