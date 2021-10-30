@@ -29,4 +29,4 @@ During Testing, the output of the decoder at time t is fed back and becomes the 
  
  ## Network Architecture 
  
- ![Archi]()
+ ![Archi](https://github.com/mitesh55/Deep_Learning_projects/blob/main/Image%20Captioning%20(%20TensorFlow%20)/img_cap_try_structure.png)
