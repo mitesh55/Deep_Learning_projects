@@ -15,6 +15,8 @@
 
 * [Object Detection](https://github.com/mitesh55/Deep_Learning_projects/tree/main/Object%20Detection%20(%20Yolov1%20%26%20Yolov3%20))
 
+ ![Object Detection-img](https://github.com/mitesh55/Deep_Learning_projects/blob/main/Object%20Detection%20(%20Yolov1%20%26%20Yolov3%20)/images/yolo_ex.png)
+
 * [Image Segmentation](https://github.com/mitesh55/Deep_Learning_projects/tree/main/Image%20Segmentation%20(%20Pytorch%20))
 
 * [Face Recognition](https://github.com/mitesh55/Deep_Learning_projects/tree/main/Face%20Recognition%20(%20dlib%2C%20mtcnn%2C%20haarcascade%20))
