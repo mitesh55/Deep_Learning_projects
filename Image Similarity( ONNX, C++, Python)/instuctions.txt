@@ -1,0 +1,11 @@
+SETUP INSTUCTIONS :
+
+---> step 1 : Run main_app file ( command : python export_custom_op.py )
+  ( Here setup.py file is use to create requirements to be install for calculation such as .so file and .o file )
+
+REQUIREMENT  :
+
+---> Eigen path for creating .so file to communicate between .py and .cpp extension ( "path_to"/eigen3/Eigen )
+---> Libtorch path ( "path_to"/libtorch-cxx11-abi-shared-with-deps-1.9.1+cpu/libtorch )
+---> export_custom_op.py ( To register and work with custom operator )
+

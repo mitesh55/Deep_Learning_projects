@@ -1,0 +1,9 @@
+PROJECT INSTUCTIONS :
+
+---> Step-1 : Activate the environment for python in which tensorflow & streamlit has been installed ( By default "base" environment will have those if we didn't made new environment explicitely )
+---> Step-2 : Run main_app file ( Command : streamlit run main_app.py )
+
+ [ Here, necessary folder will take care of the necessary weights, json and pkl files reqired ]
+ 
+
+
