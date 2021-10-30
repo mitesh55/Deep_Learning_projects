@@ -15,4 +15,10 @@ The main idea is to supplement a usual contracting network by successive layers,
 
 Dataset name has given in info.txt
 
+## Prediction 
+
+Example prediction is shown in predicted_images folder with respect to original_images
+
+[NOTE : Due to few number of image and epoch training, prediction images shows noise with respect to surrounding for segmenting]
+
 Reference : [https://github.com/aladdinpersson/Machine-Learning-Collection/tree/master/ML/Pytorch/image_segmentation/semantic_segmentation_unet](https://github.com/aladdinpersson/Machine-Learning-Collection/tree/master/ML/Pytorch/image_segmentation/semantic_segmentation_unet)
