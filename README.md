@@ -32,4 +32,7 @@
 * [Line Detector with OCR](https://github.com/mitesh55/Deep_Learning_projects/tree/main/OCR%20Line%20Detector)
 
  ![Line Detector -img](https://github.com/mitesh55/Deep_Learning_projects/blob/main/OCR%20Line%20Detector/images/ocr.png)
+ 
 * [Image Classification](https://github.com/mitesh55/Deep_Learning_projects/tree/main/Image%20Classification%20(%20Pytorch%20%26%20TensorFlow%20))
+
+ ![Image Classification -img](https://github.com/mitesh55/Deep_Learning_projects/blob/main/Image%20Classification%20(%20Pytorch%20%26%20TensorFlow%20)/images/img_class.png)
