@@ -8,7 +8,7 @@ The dataset will be in the form [image → captions]. The dataset consists of in
 
 ## Network Tropology 
 
- ![Topology]()
+ ![Topology](https://github.com/mitesh55/Deep_Learning_projects/blob/main/Image%20Captioning%20(%20TensorFlow%20)/tropology.png)
 
 **Encoder**
 
