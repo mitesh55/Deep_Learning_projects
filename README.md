@@ -9,18 +9,18 @@
 
 ### Content 
 
-* [Image Similarity (ONNX, C++ ,Python)]()
+* [Image Similarity (ONNX, C++ ,Python)](https://github.com/mitesh55/Deep_Learning_projects/tree/main/Image%20Similarity(%20ONNX%2C%20C%2B%2B%2C%20Python))
 
-* [Object Detection]()
+* [Object Detection](https://github.com/mitesh55/Deep_Learning_projects/tree/main/Object%20Detection%20(%20Yolov1%20%26%20Yolov3%20))
 
-* [Image Segmentation]()
+* [Image Segmentation](https://github.com/mitesh55/Deep_Learning_projects/tree/main/Image%20Segmentation%20(%20Pytorch%20))
 
-* [Face Recognition]()
+* [Face Recognition](https://github.com/mitesh55/Deep_Learning_projects/tree/main/Face%20Recognition%20(%20dlib%2C%20mtcnn%2C%20haarcascade%20))
 
-* [Image Captioning]()
+* [Image Captioning](https://github.com/mitesh55/Deep_Learning_projects/tree/main/Image%20Captioning%20(%20TensorFlow%20))
 
-* [Geometric Shape Detection (Circle)]()
+* [Geometric Shape Detection (Circle)](https://github.com/mitesh55/Deep_Learning_projects/tree/main/GeoMetric%20Shape%20Detection%20from%20Noisy%20Image)
 
-* [Line Detector with OCR]()
+* [Line Detector with OCR](https://github.com/mitesh55/Deep_Learning_projects/tree/main/OCR%20Line%20Detector)
 
-* [Image Classification]()
+* [Image Classification](https://github.com/mitesh55/Deep_Learning_projects/tree/main/Image%20Classification%20(%20Pytorch%20%26%20TensorFlow%20))
